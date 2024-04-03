@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project. selin ve eylül
+A new Flutter project. selin ve eylül proje bitti
 
 ## Getting Started
 
